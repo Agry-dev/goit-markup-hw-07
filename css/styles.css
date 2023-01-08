@@ -1021,7 +1021,7 @@ h3 {
   transform: rotateY(180deg);  
 }
 
-/* mobile styles */
+/* mobile styles 480px */
 
 @media screen and (max-width: 767px) {
   .container {
@@ -1359,7 +1359,7 @@ h3 {
 
 
 
-/* tablet styles */
+/* tablet styles 768px*/
 
 @media screen and (min-width: 768px) {
   .container {
@@ -1533,7 +1533,7 @@ h3 {
   }
 }
 
-/* laptop styles */
+/* laptop styles 1200px */
 
 @media screen and (min-width: 1200px) {
   .container {
